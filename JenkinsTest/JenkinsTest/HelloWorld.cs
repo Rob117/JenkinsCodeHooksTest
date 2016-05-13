@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JenkinsTest {
-	class Program {
-		static void Main(string[] args) {
-			HelloWorld.CreateGreeting("Johnathan");
+	public class HelloWorld {
+		public static string CreateGreeting(string subject) {
+			return "Hello, " + subject;
 		}
 	}
 }
