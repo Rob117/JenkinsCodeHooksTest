@@ -1,3 +1,4 @@
+force build
 This is a project for understanding the git plugin for Jenkins, webhooks, and slave nodes
 
 このプロジェクトはJenkinsのGitプラグインを使用するためなのです。それに、slave nodeの使い方もこれで探ってわかる。
