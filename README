@@ -1,4 +1,4 @@
-Using home computer as a slave node to run visual studio builds. Was awesomely fun. Uses xUnit
+Using home computer as a slave node to run visual studio builds. Was awesomely fun. Uses xUnit and NuGet package manager to re-install dependencies
 
 This is a project for understanding the git plugin for Jenkins, webhooks, and slave nodes
 
