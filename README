@@ -1,5 +1,5 @@
-Used Mono to run a project on Linux, xUnit's namespace is not found
+Using home computer as a slave node to run visual studio builds. Was awesomely fun. Uses xUnit
 
 This is a project for understanding the git plugin for Jenkins, webhooks, and slave nodes
 
-このプロジェクトはJenkinsのGitプラグインを使用するためなのです。それに、slave nodeの使い方もこれで探ってわかる。
+このプロジェクトはJenkinsのGitプラグインを使用するためなのです。それに、slave nodeとして自分の個人パソコンを使用しています・
